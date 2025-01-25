@@ -41,6 +41,12 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=anjany06&theme=radical)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjany06&show_icons=true&locale=en&layout=compact" alt="anjany06" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjany06&show_icons=true&locale=en" alt="anjany06" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjany06&" alt="anjany06" /></p>
+
 ## 📫 Connect with Me
 
 - LinkedIn: [Anjany's LinkedIn](https://www.linkedin.com/in/anjany06)
