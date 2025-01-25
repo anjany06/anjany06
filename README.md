@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anjany06&color=blue)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anjany06)](https://git.io/streak-stats)
 
 
 ## 📫 Connect with Me
