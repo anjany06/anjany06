@@ -25,9 +25,7 @@ Welcome to my GitHub profile! I'm passionate about software development and alwa
 
 ## 📊 GitHub Stats
 
-![Anjany's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjany06&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anjany06&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anjany06&layout=compact&theme=radical)
+
 
 ## 🏆 GitHub Trophies
 
