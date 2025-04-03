@@ -27,14 +27,15 @@
 ![React Query](https://img.shields.io/badge/-React_Query-1a1a2e?style=for-the-badge&logo=react-query&logoColor=FF4154)
 ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-1a1a2e?style=for-the-badge&logo=react-hook-form&logoColor=EC5990)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-1a1a2e?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+![Zod](https://img.shields.io/badge/-Zod-1a1a2e?style=for-the-badge&logo=zod&logoColor=white)
 
 ### ⚡ Backend & APIs
 ![Node.js](https://img.shields.io/badge/-Node.js-1a1a2e?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/-Express.js-1a1a2e?style=for-the-badge&logo=express&logoColor=white)
 ![Clerk](https://img.shields.io/badge/-Clerk-1a1a2e?style=for-the-badge&logo=clerk&logoColor=white)
 ![Inngest](https://img.shields.io/badge/-Inngest-1a1a2e?style=for-the-badge&logo=inngest&logoColor=white)
-![Gemini API](https://img.shields.io/badge/-Gemini_API-1a1a2e?style=for-the-badge&logo=google&logoColor=4285F4)
-![Zod](https://img.shields.io/badge/-Zod-1a1a2e?style=for-the-badge&logo=zod&logoColor=white)
+![Gemini API INTEGRATION](https://img.shields.io/badge/-Gemini_API-1a1a2e?style=for-the-badge&logo=google&logoColor=4285F4)
+
 
 ### 📂 Databases & ORM
 ![MongoDB](https://img.shields.io/badge/-MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=47A248)
