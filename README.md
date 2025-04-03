@@ -13,7 +13,7 @@
 - 🎨 **Futuristic UI Enthusiast**: Crafting interfaces that blend creativity and modern aesthetics.
 - 🛠️ **Currently Experimenting With**: Next.js, Prisma, Clerk Auth, and Serverless APIs.
 - 🤝 **Seeking Collaborations**: Open-source projects, startups, and hackathons.
-- 📩 **Let’s Connect**: [anjany06@gmail.com](mailto:anjany.pandey06@gmail.com)
+- 📩 **Let’s Connect**: [anjany.pandey06@gmail.com](mailto:anjany.pandey06@gmail.com)
 - 🎵 **Vibes**: Synthwave music & Cyberpunk aesthetics! ⚡
 
 ---
